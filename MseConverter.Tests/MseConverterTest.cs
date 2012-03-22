@@ -19,6 +19,7 @@
 using System;
 using System.IO;
 using NUnit.Framework;
+using Unicoen.TestUtils;
 
 namespace Unicoen.Apps.MseConverter.Tests {
     [TestFixture]
