@@ -1,0 +1,8 @@
+C:\Users\GreatAS\Desktop\UnicoenProject-UNICOEN-6eb8594\UnicoenProject-UNICOEN-6eb8594\bin\Debug\Unicoen.Apps.MseConverter.Tests.dll
+C:\Users\GreatAS\Desktop\UnicoenProject-UNICOEN-6eb8594\UnicoenProject-UNICOEN-6eb8594\bin\Debug\Unicoen.Apps.MseConverter.Tests.pdb
+C:\Users\GreatAS\Desktop\UnicoenProject-UNICOEN-6eb8594\UnicoenProject-UNICOEN-6eb8594\Unicoen.Apps\MseConverter.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GreatAS\Desktop\UnicoenProject-UNICOEN-6eb8594\UnicoenProject-UNICOEN-6eb8594\Unicoen.Apps\MseConverter.Tests\obj\Debug\Unicoen.Apps.MseConverter.Tests.dll
+C:\Users\GreatAS\Desktop\UnicoenProject-UNICOEN-6eb8594\UnicoenProject-UNICOEN-6eb8594\Unicoen.Apps\MseConverter.Tests\obj\Debug\Unicoen.Apps.MseConverter.Tests.pdb
+C:\Users\GreatAS\Desktop\MSEConvertor\MseConverter.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GreatAS\Desktop\MSEConvertor\MseConverter.Tests\obj\Debug\Unicoen.Apps.MseConverter.Tests.dll
+C:\Users\GreatAS\Desktop\MSEConvertor\MseConverter.Tests\obj\Debug\Unicoen.Apps.MseConverter.Tests.pdb
