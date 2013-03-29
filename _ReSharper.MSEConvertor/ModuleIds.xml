@@ -1,4 +1,0 @@
-<Modules>
-  <Module PersistentId="78C715F5-572A-4AC2-9F44-025D490CD636" ModuleId="Unicoen.Apps.MseConverter" />
-  <Module PersistentId="78ED0918-866A-45BB-A260-ED8ACDDD712E" ModuleId="Unicoen.Apps.MseConverter.Tests" />
-</Modules>
